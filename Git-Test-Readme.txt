@@ -1,2 +1,2 @@
-This is my first Git file. 
+This is the first Git file. 
 change #1
