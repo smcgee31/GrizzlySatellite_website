@@ -1,2 +1,3 @@
 This is the first Git file. 
-change #1
+
+It comes before all other files.
