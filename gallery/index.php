@@ -8,7 +8,7 @@
 </div>
 <div class="photo-area">
     <h1>Installation Photos</h1>
-    <p>Here are a few galleries of photos for you to understand what your install should look like and should NOT look like.</p>
+    <p>Here are a few galleries of photos for you to understand what your install should look like and what it should NOT look like.</p>
     <div>
         <h2>"The Good"</h2>
     </div>
